@@ -46,4 +46,4 @@ A sample architecture diagram is provided to give an overview of the deployment 
 
 
 ## Test
-I connected the dns by the loadbalancer to my own domain go to [Link for final result](glovertest.charitooconstructions.com.ng)
+I connected the dns by the loadbalancer to my own domain go to [Link for final result](https://glovertest.charitooconstructions.com.ng)
