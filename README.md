@@ -47,4 +47,4 @@ A sample architecture diagram is provided to give an overview of the deployment 
 
 ## Test
 I connected the dns by the loadbalancer to my own domain but I didn’t configure the domain for ssl (https)
-go to glovertest.charitooconstructions.com.ng
+go to http://glovertest.charitooconstructions.com.ng
