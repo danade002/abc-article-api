@@ -42,8 +42,9 @@ PORT_NUMBER: 5001
 ## Architecture Diagram
 
 A sample architecture diagram is provided to give an overview of the deployment process. The diagram includes the components of the Docker deployment and Terraform deployment.
-![ABT Deployment to GKE](glover.png)
+![ABT Deployment to GKE](glovertest.png)
 
 
-##Use
-connect the dns by the loadbalancer to my own domain but I didn’t configure the domain for ssl (https)
+## Test
+I connected the dns by the loadbalancer to my own domain but I didn’t configure the domain for ssl (https)
+go to glovertest.charitooconstructions.com.ng
