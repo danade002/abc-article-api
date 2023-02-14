@@ -27,7 +27,8 @@ SERVICE_NAME: article-api
 IMAGE_NAME: devops/article-api
 TAG: latest
 PORT_NAME: devops-article-api
-PORT_NUMBER: 5001```
+PORT_NUMBER: 5001
+```
 
 
 ## How to use
